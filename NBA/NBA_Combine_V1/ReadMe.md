@@ -1,4 +1,4 @@
-# Project Title: Is the NBA Combine an Effective Predictor of In Game Performance
+# Project Title: Is the NBA Combine an Effective Predictor of In Game Performance?
 
 By: Markham Lee
 
