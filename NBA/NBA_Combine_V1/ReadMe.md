@@ -1,4 +1,4 @@
-# Project Title: Is the NBA Combine an Effective Predictor of In Game Performance?
+## Project Title: Is the NBA Combine an Effective Predictor of In Game Performance?
 
 By: Markham Lee
 
@@ -31,15 +31,15 @@ Please clone or download this project before interacting with it, you won't be a
 * Jupyter Notebook
 * Flake8 for code hygiene and lintiing for .py and .md files created in Visual Studio Code
 
-## Update Information
+### Update Information
 
-### 9-1-2020 NBA_Project(Revised)**
+#### 9-1-2020 NBA_Project(Revised)**
 
 * Added analysis related to number and % of athletes selected with the first 15 picks of the draft that performed above the league average in win shares and points per game
 * Added significance tests for PPG, I.e. is there any difference in the proportion of players above and below the average
 * Added analysis around the number of players selected with the first 15 picks of the draft that performed in the 75th percentile
 
-### Future changes
+#### Future changes
 
 * Add a PDF file that's a high level summary of all findings replete with visualizations
 * Add a static version of the Jupyter Notebook
