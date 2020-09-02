@@ -33,7 +33,7 @@ Please clone or download this project before interacting with it, you won't be a
 
 ### Update Information
 
-#### 9-1-2020 NBA_Project(Revised)**
+#### 9-1-2020 NBA_Project(Revised)
 
 * Added analysis related to number and % of athletes selected with the first 15 picks of the draft that performed above the league average in win shares and points per game
 * Added significance tests for PPG, I.e. is there any difference in the proportion of players above and below the average
