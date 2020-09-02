@@ -44,5 +44,6 @@ Please clone or download this project before interacting with it, you won't be a
 
 * Add a PDF file that's a high level summary of all findings replete with visualizations
 * Add a static version of the Jupyter Notebook
-* Use the NBA API to gather a larger data set, extended the in game player staistics to 20-30 seasons
+* Use the NBA API to gather a larger data set, extended the in game player statistics out to 20-30 seasons
 * Add combine data for a similar time frame as above
+* Repeat this analysis for the WNBA (if possible) and see if the patterns observed in the NBA data are similar
