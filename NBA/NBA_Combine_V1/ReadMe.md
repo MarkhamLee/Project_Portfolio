@@ -16,6 +16,7 @@ Please clone or download this project before interacting with it, you won't be a
 * data_analysis.py contains the code that generates all of the visualizations, it's the original code from the assignment, save the additional code I added to the Jupyter notebook
 * data_processing.py contains the code for ingesting and cleaning the data
 * If you want to run the analysis with the python code directly just run everything from the visualization file, as it will call the ingestion file when necessary. In Visual Studio code I would just right click and select "run the file"  
+* Visualizations - contains the visualizations created by the original version of the project
 
 **Python Packages Information:**
 
