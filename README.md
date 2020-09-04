@@ -9,7 +9,7 @@ I created this repository to share examples of my data analytics and data scienc
 
 * The projects contained in this repository will typically be a mixture of projects I did to develop my skills and projects I did for school
 * When a project is for a class, I will note what the original project called for and then how I modified it before sharing it. E.g. redoing a group project for a SQL class in R and/or Python and using different research questions.
-* **Languages:** the projects listed will typically be in Python or R, as a learning exercise I will typically re-write the R projects in Python and vice-versa, so there will often two versions of the same projct in this repository.  
+* **Languages:** the projects listed will typically be in Python or R, as a learning exercise I will typically re-write the R projects in Python and vice-versa, so there will often two versions of the same project in this repository.  
 
 
 # Project List
