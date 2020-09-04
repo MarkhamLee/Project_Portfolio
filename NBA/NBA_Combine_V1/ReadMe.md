@@ -23,7 +23,7 @@ Please clone or download this project before interacting with it, you won't be a
 * Pandas for data frame interactions
 * OS for accessing a file directory, glob for opening multiple CSV files and appending them into one data frame
 * matplotlib and seaborn for the visualizations
-* numpy and sklearn are listed in the jupyter notebook but not used since regression and/or ML ended up not being necessary. I left them there as I may use them in future versions 
+* numpy and sklearn are listed in the jupyter notebook but not used since regression and/or ML ended up not being necessary. I left them there as I may use them in future versions
 
 **Development Tools & Language Information:**
 
@@ -33,6 +33,13 @@ Please clone or download this project before interacting with it, you won't be a
 * Flake8 for code hygiene and lintiing for .py and .md files created in Visual Studio Code
 
 ### Update Information
+
+#### 9-02-2020 NBA_Project(Revised)
+* Word smithing
+* Refreshed source data just to be doubly sure, no changes to findings
+* Updated findings to note wingspan vs. blocks as that was a near (0.67) strong relationship
+* Added high level PDF summary of findings
+
 
 #### 9-1-2020 NBA_Project(Revised)
 
