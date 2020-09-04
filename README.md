@@ -16,4 +16,4 @@ I created this repository to share examples of my data analytics and data scienc
 
 ## Current Project List
 
-* NBA Combine: this project attempts to evaluate how useful the "events" at the NBA combine are in terms of evaluating NBA prospects. I.e. does measuring how much a potential NBA player can bench, when coupled with measuring his vertical leap, speed and agility truly give NBA scouts useful information for evaluating a player? Does this data correspond to on court performance?
+* [https://github.com/MarkhamLee/Project_Portfolio/tree/master/NBA/NBA_Combine_V1](NBA Combine): this project attempts to evaluate how useful the "events" at the NBA combine are in terms of evaluating NBA prospects. I.e. does measuring how much a potential NBA player can bench, when coupled with measuring his vertical leap, speed and agility truly give NBA scouts useful information for evaluating a player? Does this data correspond to on court performance?
