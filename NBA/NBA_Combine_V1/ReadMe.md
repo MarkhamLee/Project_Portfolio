@@ -1,4 +1,4 @@
-## Project Title: Is the NBA Combine an Effective Predictor of In Game Performance?
+# Project Title: Is the NBA Combine an Effective Predictor of In Game Performance?
 
 By: Markham Lee
 
@@ -6,11 +6,11 @@ This was a project for my CSE163 - Intermediate Data Programming Course at the U
 
 This project makes heavy use of Jupyter Notebooks, if you don't have the environment for Jupyter Notebook, Binder is a free open source tool that can read a directory containing Jupyter Notebooks and provide a browser based environment to run them  in.
 
-Please clone or download this project before interacting with it, you won't be able to save changes or notes to this repository
-
 **Included in this repository are the following files:**
 
-* NBA_Project(Revised).ipynb is the Jupyter notebook that contains the original code, some additions I after I had turned the project in also has analyses/write-up embedded into it. This is the primary source of the code for this project.
+* NBA_Project(Revised).ipynb is the Jupyter notebook that contains the original code, some additions I after I had turned the project in also has analyses/write-up embedded into it. This is the primary source of the code for this project, and is more up to date than the individual python files. 
+* NBA_Report(FINAL).pdf is a detailed report of the project's findings: inclusive of visualizations, analysis, caveats and discussion of potential future enhancements. Those looking for results and analysis should look at this file.
+* high_level_summary(FINAL).pdf is a more academic style summary, it goes into more depth on the reasoning behind doing the project, research questions, methodology and problems encountered and provides a high level summary of the results. It's the "why and the how" more than it is a deep dive into the results. 
 * nba_stats contains the files with NBA player statistics
 * new_data contains the file with the NBA Combine information
 * data_analysis.py contains the code that generates all of the visualizations, it's the original code from the assignment, save the additional code I added to the Jupyter notebook
@@ -34,12 +34,17 @@ Please clone or download this project before interacting with it, you won't be a
 
 ### Update Information
 
+#### 9-08-2020 NBA_Project(Revised)
+
+* Added overview of the results (PPT saved as a PDF - NBA_report(FINAL).PDF)
+* Updated Jupyter Notebook, small tweaks + additional visualizations 
+
 #### 9-02-2020 NBA_Project(Revised)
+
 * Word smithing
 * Refreshed source data just to be doubly sure, no changes to findings
 * Updated findings to note wingspan vs. blocks as that was a near (0.67) strong relationship
 * Added high level PDF summary of findings
-
 
 #### 9-1-2020 NBA_Project(Revised)
 
@@ -49,7 +54,7 @@ Please clone or download this project before interacting with it, you won't be a
 
 #### Future changes
 
-* Add a PDF file that's a high level summary of all findings replete with visualizations
+* ~~Add a PDF file that's a high level summary of all findings replete with visualizations~~
 * Add a static version of the Jupyter Notebook
 * Use the NBA API to gather a larger data set, extended the in game player statistics out to 20-30 seasons
 * Add combine data for a similar time frame as above
