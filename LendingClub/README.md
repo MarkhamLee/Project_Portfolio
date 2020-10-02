@@ -34,10 +34,14 @@ of the file, it was significantly faster to subset the file, update fields and c
 
 4) **ml_data_prep.py:** this file prepares the data for machine learning by removing certain columns and adding dummy variables. It also has helper functions for finding highly correlated features and deleting those columns from the dataset. The functions for finding feature correlations weren't used, as I did that work in the machine learning notebook as it was easier given the work I needed to do around analyzing investment returns prior to removing features and performing machine learning modeling. Since the purpose of this file is to be a general purpose machine learning preparing script, I left the correlated features functions in.
 
-5) **LendingClub_ML_FINAL(V1).ipynb:** this notebook contains three different machine learning models that compares output of three models (L1 logistic regression, L2 logistic regression & Decision Tree, calculates default rate for each and improved annualized return for the winning model.
+5) **Machine Learning Notebooks**
+
+    * **LendingClub(all_Loans)_ML_FINAL(V1).ipynb:** this notebook contains three different machine learning models that compares output of three models (L1 logistic regression, L2 logistic regression & Decision Tree, calculates default rate for each and improved annualized return for the winning model.
+    * **LendingClub(all_Loans)_ML_FINAL(V2).ipynb:** this notebook is identical to the notebook above in terms of results, but shifts all of the functions a lot of eda calculations to an external class (eda_class.py), in order to enhance readability. E.g. there aren't several panes of helper functions you have to scroll past prior to seeing the analysis and machine learning models. The caveat is that you have to download both the notebook and the helper class, as it isn't a stand alone notebook like the one above. I included it because I think that embedding classes is a good way to streamline notebooks for data presentation purposes.
 
 ### Updates
 
 * 9/17/2020: added the README file, LC_proprocessing(final).py and the notebook used to perform additional data cleaning and feature engineering.
 * 9/22/2020: added an initial draft of the most extensive EDA, future plan is to replace all the functions with an embedded class to make the output even cleaner.
 * 9/26/2020: added **LendingClub(all_loans)_ML_FINAL(V1).ipynb** - notebook containing machine learning modeling + investment analysis. Also added a machine learning preparation script. **ml_data_prep.py**
+* 10/02/2020: added a second notebook that uses a "helper class" that contains functions that executes a lot of the functionality, in order to make the notebook more readable. Also added the helper class eda_class.py.
